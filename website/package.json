@@ -18,7 +18,7 @@
     "karma-chrome-launcher": "^0.1.4",
     "karma-jasmine": "^0.1.5",
     "lodash": "^2.4.1",
-    "minijasminenode": "^1.1.1"
+    "minijasminenode2": "xdissent/minijasminenode#jasmine-2"
   },
   "scripts": {
     "prepublish": "./node_modules/bower/bin/bower install",

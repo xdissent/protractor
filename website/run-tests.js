@@ -7,7 +7,7 @@ var scripts = [];
 
 // Dgeni tests.
 scripts.push(
-    'node node_modules/.bin/minijasminenode ' +
+    'node node_modules/.bin/minijasminenode2 ' +
     glob('docgen/spec/*.js').join(' '));
 
 // Karma tests.
